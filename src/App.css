@@ -1,0 +1,35 @@
+.nav.navbar{
+  background: #19b4e3;
+    padding: 10px;
+    color: #fff;
+}
+nav.navbar a {
+  color: #fff;
+  font-family: sans-serif;
+  font-weight: 600;
+  margin: 0px 10px;
+}
+.container {
+  width: 1320px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.product-card {
+  /* display: grid
+; */
+  width: 20%;
+  /* display: inline-block; */
+  float: left;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.product-card img {
+  width: 60%;
+}
+.product-card a{
+  text-decoration:none;
+}
+.product-card h4{
+  font-size:15px;
+}
